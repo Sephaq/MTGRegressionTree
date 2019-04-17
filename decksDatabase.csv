@@ -2,7 +2,7 @@ Formato,Data,Jogador,Baralho,Baralho Oponente,Oponente,Vitorias,Derrotas
 Modern,12-Oct-18,Marvin Aquino,BUR Aggro,UW Control,Alexandre Goes,2,0
 Modern,12-Oct-18,Thiago Sant,UR Control,WGU Aggro,Joao Baptista,2,0
 Modern,12-Oct-18,Jorge Braun,G Control,GU Combo,Leonardo Andrade,2,1
-Modern,12-Oct-18,Thales Bion,UW Control,UR Aggro,Thiago Taranto,2,1
+Modern,12-Oct-18,Thales Bion,UW Control,UR Aggro,Tiago Taranto,2,1
 Modern,12-Oct-18,Andrey Lolo,RG Midrange,BRG Midrange,Joao Biato,1,1
 Modern,12-Oct-18,Lautaro Ferrari,GRU Combo,RWG Aggro,Fabrice Alexandre,0,2
 Modern,12-Oct-18,Salatiel Queiroz,,UBR Control,Nicola Vergriassi,1,1
@@ -13,11 +13,11 @@ Modern,12-Oct-18,Endy Silveira,G Aggro,G Control,Jorge Braun,2,0
 Modern,12-Oct-18,Thiago Sant,UR Control,BRG Midrange,Joao Biato,2,0
 Modern,12-Oct-18,Andrey Lolo,RG Midrange,,Salatiel Queiroz,1,2
 Modern,12-Oct-18,Nicola Vergriassi,UBR Control,,Henrique Diniz,2,1
-Modern,12-Oct-18,Alexandre Goes,UW Control,UR Aggro,Thiago Taranto,0,2
+Modern,12-Oct-18,Alexandre Goes,UW Control,UR Aggro,Tiago Taranto,0,2
 Modern,12-Oct-18,Leonardo Andrade,GU Combo,GRU Combo,Lautaro Ferrari,2,1
 Modern,12-Oct-18,Jorge Braun,G Control,UR Combo,Guilherme Silva,1,2
 Modern,12-Oct-18,Thiago Sant,UR Control,UW Control,Thales Bion,1,1
-Modern,12-Oct-18,Nicola Vergriassi,UBR Control,UR Aggro,Thiago Taranto,2,1
+Modern,12-Oct-18,Nicola Vergriassi,UBR Control,UR Aggro,Tiago Taranto,2,1
 Modern,12-Oct-18,Salatiel Queiroz,,WGU Aggro,Joao Baptista,2,1
 Modern,12-Oct-18,Fabrice Alexandre,RWG Aggro,BUR Aggro,Marvin Aquino,2,1
 Modern,12-Oct-18,Leonardo Andrade,GU Combo,G Aggro,Endy Silveira,2,0
@@ -28,20 +28,272 @@ Modern,12-Oct-18,Thales Bion,UW Control,UBR Control,Nicola Vergriassi,2,0
 Modern,12-Oct-18,Salatiel Queiroz,,UR Control,Thiago Sant,1,2
 Modern,12-Oct-18,Marvin Aquino,BUR Aggro,WGU Aggro,Joao Baptista,2,1
 Modern,12-Oct-18,Fabrice Alexandre,RWG Aggro,G Aggro,Endy Silveira,2,1
-Modern,12-Oct-18,Jorge Braun,G Control,UR Aggro,Thiago Taranto,2,0
+Modern,12-Oct-18,Jorge Braun,G Control,UR Aggro,Tiago Taranto,2,0
 Modern,12-Oct-18,Henrique Diniz,,RG Midrange,Andrey Lolo,0,2
 Modern,12-Oct-18,Joao Biato,BRG Midrange,GRU Combo,Lautaro Ferrari,0,2
 Modern,17-Dec-18,Thiago Sant,UR Control,G Control,Jorge Braun,1,2
 Modern,17-Dec-18,Marvin Aquino,BUR Aggro,UW Control,Thales Bion,2,1
 Modern,17-Dec-18,Joao Baptista,WGU Aggro,GU Combo,Leonardo Andrade,0,2
 Modern,17-Dec-18,Alexandre Goes,UW Control,BRG Midrange,Joao Biato,0,2
-Modern,17-Dec-18,Andrey Lolo,RG Midrange,UR Combo,Thiago Taranto,2,1
+Modern,17-Dec-18,Andrey Lolo,RG Midrange,UR Combo,Tiago Taranto,2,1
 Modern,17-Dec-18,Salatiel Queiroz,,RWG Aggro,Fabrice Alexandre,0,2
 Modern,17-Dec-18,Lautaro Ferrari,GRU Combo,,Henrique Diniz,2,0
 Modern,17-Dec-18,Nicola Vergriassi,UBR Control,G Aggro,Endy Silveira,2,0
-Modern,17-Dec-18,,,,,,
-Modern,17-Dec-18,,,,,,
-Modern,17-Dec-18,,,,,,
-Modern,17-Dec-18,,,,,,
-Modern,17-Dec-18,,,,,,
-Modern,17-Dec-18,,,,,,
+Modern,17-Dec-18,Jorge Braun,G Control,BUR Aggro,Marvin Aquino,0,2
+Modern,17-Dec-18,Leonardo Andrade,GU Combo,WGU Aggro,Joao Biato,2,1
+Modern,17-Dec-18,Andrey Lolo,RG Midrange,RWG Aggro,Fabrice Alexandre,1,2
+Modern,17-Dec-18,Lautaro Ferrari,GRU Combo,UBR Control,Nicola Vergriassi,1,0
+Modern,17-Dec-18,Thiago Sant,UR Control,UW Control,Thales Bion,1,2
+Modern,17-Dec-18,Tiago Taranto,UR Combo,WGU Aggro,Joao Baptista,1,2
+Modern,17-Dec-18,Alexandre Goes,UW Control,,Salatiel Queiroz,0,2
+Modern,17-Dec-18,Henrique Diniz,,G Aggro,Endy Silveira,2,1
+Modern,17-Dec-18,Marvin Aquino,BUR Aggro,RWG Aggro,Fabrice Alexandre,1,2
+Modern,17-Dec-18,Leonardo Andrade,GU Combo,GRU Combo,Lautaro Ferrari,2,0
+Modern,17-Dec-18,Jorge Braun,G Control,UW Control,Thales Bion,2,1
+Modern,17-Dec-18,Joao Biato,BRG Midrange,RG Midrange,Andrey Lolo,2,1
+Modern,17-Dec-18,Joao Baptista,WGU Aggro,,Salatiel Queiroz,2,1
+Modern,17-Dec-18,Henrique Diniz,,UBR Control,Nicola Vergriassi,2,0
+Modern,17-Dec-18,Alexandre Goes,UW Control,,Endy Silveira,1,2
+Modern,17-Dec-18,Thiago Sant,UR Control,UR Combo,Tiago Taranto,2,1
+Modern,17-Dec-18,Leonardo Andrade,GU Combo,RWG Aggro,Fabrice Alexandre,1,2
+Modern,17-Dec-18,Jorge Braun,G Control,WGU Aggro,Joao Biato,2,0
+Modern,17-Dec-18,Marvin Aquino,BUR Aggro,GRU Combo,Lautaro Ferrari,2,1
+Modern,17-Dec-18,Thales Bion,UW Control,RG Midrange,Andrey Lolo,2,1
+Modern,17-Dec-18,Joao Baptista,WGU Aggro,,Henrique Diniz,2,1
+Modern,17-Dec-18,Thiago Sant,UR Control,G Aggro,Endy Silveira,2,0
+Modern,17-Dec-18,Alexandre Goes,UW Control,,Salatiel Queiroz,1,2
+Modern,17-Dec-18,Nicola Vergriassi,UBR Control,UR Combo,Tiago Taranto,1,1
+Modern,07-Jan-19,Marvin Aquino,UB Combo,GRU Combo,Lautaro Ferrari,2,1
+Modern,07-Jan-19,Leonardo Andrade,BG Midrange,UW Control,Thales Bion,1,2
+Modern,07-Jan-19,Thiago Sant,UW Control,WGU Aggro,Joao Baptista,2,0
+Modern,07-Jan-19,Guilherme Silva,GWRU Combo,G Control,Jorge Braun,0,2
+Modern,07-Jan-19,Alexandre Goes,RG Midrange,BRG Midrange,Joao Biato,0,2
+Modern,07-Jan-19,Nicola Vergriassi,UBR Control,UWG Aggro,Edson Junior,0,2
+Modern,07-Jan-19,Edson Junior,UWG Aggro,G Control,Jorge Braun,2,1
+Modern,07-Jan-19,Thiago Sant,UW Control,UW Control,Thales Bion,0,2
+Modern,07-Jan-19,Joao Biato,BRG Midrange,UB Combo,Marvin Aquino,0,2
+Modern,07-Jan-19,Leonardo Andrade,BG Midrange,GRU Combo,Lautaro Ferrari,2,1
+Modern,07-Jan-19,Joao Baptista,WGU Aggro,GWRU Combo,Guilherme Silva,1,2
+Modern,07-Jan-19,Alexandre Goes,RG Midrange,UBR Control,Nicola Vergriassi,1,1
+Modern,07-Jan-19,Edson Junior,UWG Aggro,UW Control,Thales Bion,2,0
+Modern,07-Jan-19,Marvin Aquino,UB Combo,G Control,Jorge Braun,0,2
+Modern,07-Jan-19,Leonardo Andrade,BG Midrange,GWRU Combo,Guilherme Silva,2,0
+Modern,07-Jan-19,Thiago Sant,UW Control,BRG Midrange,Joao Biato,2,0
+Modern,07-Jan-19,Lautaro Ferrari,GRU Combo,UBR Control,Nicola Vergriassi,2,1
+Modern,07-Jan-19,Alexandre Goes,RG Midrange,WGU Aggro,Joao Baptista,0,2
+Modern,07-Jan-19,Edson Junior,UWG Aggro,G Control,Jorge Braun,2,0
+Modern,07-Jan-19,Thales Bion,UW Control,UB Combo,Marvin Aquino,2,0
+Modern,07-Jan-19,Leonardo Andrade,BG Midrange,UW Control,Thiago Sant,0,2
+Modern,07-Jan-19,Joao Biato,BRG Midrange,GWRU Combo,Guilherme Silva,0,2
+Modern,07-Jan-19,Alexandre Goes,RG Midrange,GRU Combo,Lautaro Ferrari,0,2
+Modern,07-Jan-19,Nicola Vergriassi,UBR Control,WGU Aggro,Joao Baptista,0,2
+Modern,14-Jan-19,Leandro Goes,BR Aggro,BRG Midrange,Joao Biato,2,0
+Modern,14-Jan-19,William Gasparino,UR Combo,BR Aggro,Alexandre Goes,1,2
+Modern,14-Jan-19,Nicola Vergriassi,UBR Control,RBW Midrange,Maycon Bittencourt,2,0
+Modern,14-Jan-19,Leonardo Andrade,BG Midrange,GWRU Combo,Guilherme Silva,2,1
+Modern,14-Jan-19,Jorge Braun,UB Control,G Aggro,Marcelo Klingelfus,0,2
+Modern,14-Jan-19,Diogo Santiago,RWG Aggro,UWG Aggro,Joao Baptista,2,1
+Modern,14-Jan-19,Marvin Aquino,UB Combo,UW Control,Thiago Sant,2,1
+Modern,14-Jan-19,Thales Bion,UWG Aggro,UGW Aggro,Tales Pereira,1,2
+Modern,14-Jan-19,Leandro Goes,BR Aggro,RWG Aggro,Diogo Santiago,0,2
+Modern,14-Jan-19,Nicola Vergriassi,UBR Control,BG Midrange,Leonardo Andrade,0,2
+Modern,14-Jan-19,Alexandre Goes,BUR Aggro,UB Combo,Marvin Aquino,2,0
+Modern,14-Jan-19,Tales Pereira,UGW Aggro,G Aggro,Marcelo Klingelfus,1,2
+Modern,14-Jan-19,Jorge Braun,UB Control,UWG Aggro,Thales Bion,1,2
+Modern,14-Jan-19,William Gasparino,UR Combo,UW Control,Thiago Sant,0,2
+Modern,14-Jan-19,Joao Biato,BRG Midrange,RBW Midrange,Maycon Bittencourt,2,0
+Modern,14-Jan-19,Joao Baptista,UWG Aggro,GWRU Combo,Guilherme Silva,0,2
+Modern,14-Jan-19,Diogo Santiago,RWG Aggro,G Aggro,Marcelo Klingelfus,2,1
+Modern,14-Jan-19,Leonardo Andrade,BG Midrange,BR Aggro,Alexandre Goes,2,1
+Modern,14-Jan-19,Guilherme Silva,GWRU Combo,UB Combo,Marvin Aquino,2,0
+Modern,14-Jan-19,Thiago Sant,UW Control,UWG Aggro,Thales Bion,0,2
+Modern,14-Jan-19,Leandro Goes,BR Aggro,UGW Aggro,Tales Pereira,2,1
+Modern,14-Jan-19,Joao Biato,BRG Midrange,UBR Control,Nicola Vergriassi,1,0
+Modern,14-Jan-19,Joao Baptista,UWG Aggro,UR Combo,William Gasparino,1,2
+Modern,14-Jan-19,Maycon Bittencourt,RBW Midrange,UB Control,Jorge Braun,2,0
+Modern,14-Jan-19,Leonardo Andrade,BG Midrange,RWG Aggro,Diogo Santiago,2,1
+Modern,14-Jan-19,Leandro Goes,BR Aggro,BR Aggro,Alexandre Goes,2,1
+Modern,14-Jan-19,Guilherme Silva,GWRU Combo,G Aggro,Marcelo Klingelfus,2,1
+Modern,14-Jan-19,Joao Biato,BRG Midrange,UWG Aggro,Thales Bion,0,2
+Modern,14-Jan-19,Tales Pereira,UGW Aggro,UBR Control,Nicola Vergriassi,2,1
+Modern,14-Jan-19,Marvin Aquino,UB Combo,RBW Midrange,Maycon Bittencourt,2,0
+Modern,21-Jan-19,Gustavo Wolf,G Midrange,BUR Aggro,Alexandre Goes,0,2
+Modern,21-Jan-19,William Gasparino,RWG Aggro,BRG Midrange,Joao Biato,2,0
+Modern,21-Jan-19,Tales Pereira,,RBW Midrange,Maycon Bittencourt,0,1
+Modern,21-Jan-19,Thiago Sant,UR Combo,UWG Aggro,Thales Bion,2,0
+Modern,21-Jan-19,Joao Baptista,UWG Aggro,,Diego Cardoso,2,1
+Modern,21-Jan-19,Leonardo Andrade,BG Midrange,UB Control,Jorge Braun,2,1
+Modern,21-Jan-19,Guilherme Silva,GWRU Combo,UB Combo,Marvin Aquino,2,1
+Modern,21-Jan-19,Otavio Fernandes,,UR Combo,Leandro Goes,0,2
+Modern,21-Jan-19,Douglas Schneider,Coloress Aggro,GR Combo,Kauli Luiz,1,2
+Modern,21-Jan-19,Leandro Goes,UR Combo,BUR Aggro,Alexandre Goes,1,2
+Modern,21-Jan-19,Joao Baptista,UWG Aggro,BRG Aggro,Tiago Taranto,0,2
+Modern,21-Jan-19,Guilherme Silva,GWRU Combo,RWG Aggro,William Gasparino,1,2
+Modern,21-Jan-19,Thiago Sant,UR Combo,BG Midrange,Leonardo Andrade,0,2
+Modern,21-Jan-19,Kauli Luiz,GR Combo,RBW Midrange,Maycon Bittencourt,0,2
+Modern,21-Jan-19,Joao Biato,BRG Midrange,UWG Aggro,Thales Bion,0,2
+Modern,21-Jan-19,Marvin Aquino,UB Combo,Coloress Aggro,Douglas Schneider,2,1
+Modern,21-Jan-19,Otavio Fernandes,,,Diego Cardoso,0,2
+Modern,21-Jan-19,Gustavo Wolf,G Midrange,,Tales Pereira,1,2
+Modern,21-Jan-19,Leonardo Andrade,BG Midrange,BRG Aggro,Tiago Taranto,2,0
+Modern,21-Jan-19,Maycon Bittencourt,RBW Midrange,RWG Aggro,William Gasparino,0,2
+Modern,21-Jan-19,Alexandre Goes,BUR Aggro,UR Combo,Thiago Sant,0,2
+Modern,21-Jan-19,Thales Bion,UWG Aggro,BUR Aggro,Leandro Goes,2,1
+Modern,21-Jan-19,Tales Pereira,,,Diego Cardoso,0,2
+Modern,21-Jan-19,Jorge Braun,UBR Control,UWG Aggro,Joao Baptista,2,0
+Modern,21-Jan-19,Marvin Aquino,UB Combo,GR Combo,Kauli Luiz,2,0
+Modern,21-Jan-19,Gustavo Wolf,G Midrange,GWRU Combo,Guilherme Silva,2,0
+Modern,21-Jan-19,Douglas Schneider,Coloress Aggro,BRG Midrange,Joao Biato,2,0
+Modern,21-Jan-19,Leonardo Andrade,BG Midrange,RWG Aggro,William Gasparino,0,2
+Modern,21-Jan-19,Alexandre Goes,BUR Aggro,,Diego Cardoso,2,0
+Modern,21-Jan-19,Marvin Aquino,UB Combo,RBW Midrange,Maycon Bittencourt,2,0
+Modern,21-Jan-19,Tiago Taranto,BRG Aggro,UBR Control,Jorge Braun,0,2
+Modern,21-Jan-19,Thiago Sant,UR Combo,,Tales Pereira,2,1
+Modern,21-Jan-19,Gustavo Wolf,G Midrange,UWG Aggro,Joao Baptista,2,0
+Modern,21-Jan-19,Thiago Sant,UR Combo,RWG Aggro,William Gasparino,0,2
+Modern,21-Jan-19,Leonardo Andrade,BG Midrange,BUR Aggro,Alexandre Goes,2,1
+Modern,21-Jan-19,Jorge Braun,UB Control,UWG Aggro,Thales Bion,0,2
+Modern,21-Jan-19,Marvin Aquino,UB Combo,BRG Aggro,Tiago Taranto,2,0
+Modern,21-Jan-19,Maycon Bittencourt,RBW Midrange,G Midrange,Gustavo Wolf,0,2
+Modern,09-Apr-10,Felipe Peitro,RWG Aggro,UR Combo,Leandro Goes,1,2
+Modern,09-Apr-10,Marcos Morelli,BG Midrange,BRG Midrange,Joao Biato,2,1
+Modern,09-Apr-10,Nicola Vergriassi,UBR Control,UWG Aggro,Thales Bion,1,2
+Modern,09-Apr-10,Alexandre Goes,GU Combo,UB Combo,Marvin Aquino,0,2
+Modern,09-Apr-10,Pedro Brucapaglia,,B Control,Robson Costa,0,2
+Modern,09-Apr-10,Thiago Sant,UR Combo,WGU Aggro,Joao Baptista,0,2
+Modern,09-Apr-10,Gustavo Wolf,G Control,G Control,Jorge Braun,2,0
+Modern,09-Apr-10,Leonardo Andrade,BG Midrange,RWG Aggro,Diogo Santiago,2,1
+Modern,09-Apr-10,Leonardo Andrade,BG Midrange,WGU Aggro,Joao Baptista,2,1
+Modern,09-Apr-10,Robson Costa,B Control,UR Combo,Leandro Goes,2,0
+Modern,09-Apr-10,Gustavo Wolf,G Control,UWG Aggro,Thales Bion,1,2
+Modern,09-Apr-10,Marvin Aquino,UB Combo,BG Midrange,Marcos Morelli,2,1
+Modern,09-Apr-10,Diogo Santiago,RWG Aggro,UR Combo,Thiago Sant,2,0
+Modern,09-Apr-10,Nicola Vergriassi,UBR Control,RWG Aggro,Felipe Peitro,2,0
+Modern,09-Apr-10,Alexandre Goes,GU Combo,G Control,Jorge Braun,2,0
+Modern,09-Apr-10,Pedro Brucapaglia,,BRG Midrange,Joao Biato,1,2
+Modern,09-Apr-10,Thales Bion,UWG Aggro,BG Midrange,Leonardo Andrade,1,2
+Modern,09-Apr-10,Robson Costa,B Control,UB Combo,Marvin Aquino,2,1
+Modern,09-Apr-10,Joao Baptista,WGU Aggro,G Control,Gustavo Wolf,1,2
+Modern,09-Apr-10,Diogo Santiago,RWG Aggro,UBR Control,Nicola Vergriassi,2,0
+Modern,09-Apr-10,Joao Biato,BRG Midrange,UR Combo,Leandro Goes,0,2
+Modern,09-Apr-10,Alexandre Goes,GU Combo,BG Midrange,Marcos Morelli,1,2
+Modern,09-Apr-10,Felipe Peitro,RWG Aggro,,Pedro Brucapaglia,2,1
+Modern,09-Apr-10,Leonardo Andrade,BG Midrange,B Control,Robson Costa,0,2
+Modern,09-Apr-10,Marvin Aquino,UB Combo,UWG Aggro,Thales Bion,2,1
+Modern,09-Apr-10,Leandro Goes,UR Combo,RWG Aggro,Diogo Santiago,0,2
+Modern,09-Apr-10,Gustavo Wolf,G Control,BG Midrange,Marcos Morelli,1,2
+Modern,09-Apr-10,Alexandre Goes,GU Combo,UBR Control,Nicola Vergriassi,1,1
+Modern,09-Apr-10,Joao Biato,BRG Midrange,RWG Aggro,Felipe Peitro,1,2
+Modern,02-Apr-19,Tiago Taranto,BGRU Combo,BG Midrange,Leonardo Andrade,1,2
+Modern,02-Apr-19,Leandro Goes,UR Combo,BRG Midrange,Joao Biato,2,0
+Modern,02-Apr-19,Jorge Braun,G Control,BUR Aggro,Alexandre Goes,1,2
+Modern,02-Apr-19,Gustavo Wolf,G Control,UR Combo,Thiago Sant,1,2
+Modern,02-Apr-19,Mauro Santos,,WGU Aggro,Joao Baptista,1,2
+Modern,02-Apr-19,William Gasparino,RWG Aggro,GWRU Combo,Guilherme Silva,2,1
+Modern,02-Apr-19,Guilherme Silva,GWRU Combo,BUR Aggro,Alexandre Goes,2,1
+Modern,02-Apr-19,Leonardo Andrade,BG Midrange,WGU Aggro,Joao Baptista,2,0
+Modern,02-Apr-19,Leandro Goes,UR Combo,UR Combo,Thiago Sant,0,2
+Modern,02-Apr-19,Thales Bion,UWG Aggro,RWG Aggro,William Gasparino,2,1
+Modern,02-Apr-19,Mauro Santos,,G Control,Gustavo Wolf,2,0
+Modern,02-Apr-19,Jorge Braun,G Control,BRG Midrange,Joao Biato,2,1
+Modern,02-Apr-19,Guilherme Silva,GWRU Combo,UR Combo,Thiago Sant,2,0
+Modern,02-Apr-19,Thales Bion,UWG Aggro,BG Midrange,Leonardo Andrade,2,1
+Modern,02-Apr-19,Mauro Santos,,UR Combo,Leandro Goes,1,2
+Modern,02-Apr-19,Tiago Taranto,BGRU Combo,G Control,Jorge Braun,0,2
+Modern,02-Apr-19,Alexandre Goes,BUR Aggro,WGU Aggro,Joao Baptista,2,1
+Modern,02-Apr-19,Joao Biato,BRG Midrange,G Control,Gustavo Wolf,0,2
+Modern,02-Apr-19,Thales Bion,UWG Aggro,GWRU Combo,Guilherme Silva,1,1
+Modern,02-Apr-19,Thiago Sant,UR Combo,BG Midrange,Leonardo Andrade,0,2
+Modern,02-Apr-19,Leandro Goes,UR Combo,G Control,Jorge Braun,2,1
+Modern,02-Apr-19,Alexandre Goes,BUR Aggro,BGRU Combo,Tiago Taranto,2,1
+Modern,02-Apr-19,Joao Baptista,WGU Aggro,G Control,Gustavo Wolf,2,0
+Modern,02-Apr-19,Mauro Santos,,BRG Midrange,Joao Biato,2,1
+Modern,26-Mar-19,Thiago Sant,,,Alexandre Goes,2,1
+Modern,26-Mar-19,Douglas Schneider,,,Tiago Taranto,0,2
+Modern,26-Mar-19,Leandro Goes,,,Kauli Luiz,0,2
+Modern,26-Mar-19,Vicente Joner,,,Joao Biato,2,1
+Modern,26-Mar-19,Leonardo Andrade,,,Guilherme Silva,2,0
+Modern,26-Mar-19,Marvin Aquino,,,Gustavo Wolf,1,2
+Modern,26-Mar-19,Joao Baptista,,,Pedro Brucapaglia,2,1
+Modern,26-Mar-19,Marcos Morelli,,,Jorge Braun,1,2
+Modern,26-Mar-19,Tales Pereira,,,William Gasparino,1,2
+Modern,26-Mar-19,Kauli Luiz,,,Leonardo Andrade,1,2
+Modern,26-Mar-19,Jorge Braun,,,Tiago Taranto,2,0
+Modern,26-Mar-19,Joao Baptista,,,Thiago Sant,0,2
+Modern,26-Mar-19,Gustavo Wolf,,,Thales Bion,1,2
+Modern,26-Mar-19,Tales Pereira,,,Vicente Joner,0,2
+Modern,26-Mar-19,William Gasparino,,,Joao Biato,2,1
+Modern,26-Mar-19,Douglas Schneider,,,Alexandre Goes,2,1
+Modern,26-Mar-19,Leandro Goes,,,Guilherme Silva,2,1
+Modern,26-Mar-19,Marvin Aquino,,,Pedro Brucapaglia,1,2
+Modern,26-Mar-19,Leonardo Andrade,,,Thiago Sant,2,0
+Modern,26-Mar-19,Thales Bion,,,Jorge Braun,1,2
+Modern,26-Mar-19,William Gasparino,,,Vicente Joner,2,1
+Modern,26-Mar-19,Kauli Luiz,,,Joao Baptista,1,2
+Modern,26-Mar-19,Pedro Brucapaglia,,,Marcos Morelli,1,2
+Modern,26-Mar-19,Tiago Taranto,,,Gustavo Wolf,0,2
+Modern,26-Mar-19,Leandro Goes,,,Douglas Schneider,0,2
+Modern,26-Mar-19,Joao Biato,,,Tales Pereira,2,1
+Modern,26-Mar-19,Marvin Aquino,,,Alexandre Goes,1,2
+Modern,26-Mar-19,Jorge Braun,,,Leonardo Andrade,2,1
+Modern,26-Mar-19,Vicente Joner,,,Thiago Sant,2,0
+Modern,26-Mar-19,Marcos Morelli,,,Thales Bion,2,1
+Modern,26-Mar-19,Douglas Schneider,,,Joao Baptista,2,1
+Modern,26-Mar-19,Gustavo Wolf,,,Joao Biato,1,2
+Modern,26-Mar-19,Tiago Taranto,,,William Gasparino,2,1
+Modern,26-Mar-19,Kauli Luiz,,,Alexandre Goes,2,1
+Modern,26-Mar-19,Leandro Goes,,,Tales Pereira,1,1
+Modern,26-Mar-19,Jorge Braun,,,Vicente Joner,2,1
+Modern,26-Mar-19,Marcos Morelli,,,Leonardo Andrade,1,2
+Modern,26-Mar-19,Douglas Schneider,,,Thales Bion,1,2
+Modern,26-Mar-19,Tiago Taranto,,,Thiago Sant,2,0
+Modern,26-Mar-19,Kauli Luiz,,,Joao Biato,2,1
+Modern,26-Mar-19,Joao Baptista,,,Gustavo Wolf,2,0
+Modern,21-Mar-19,Leandro Goes,,,Gustavo Wolf,2,1
+Modern,21-Mar-19,Andre Schimidt,,,Leonardo Andrade,2,0
+Modern,21-Mar-19,Vicente Joner,,,Thales Bion,2,0
+Modern,21-Mar-19,Mateus Schneider,,,Marcos Morelli,2,0
+Modern,21-Mar-19,Lucas Ventura,,,Joao Baptista,2,1
+Modern,21-Mar-19,Joao Biato,,,Tales Pereira,1,2
+Modern,21-Mar-19,Marvin Aquino,,,William Gasparino,0,2
+Modern,21-Mar-19,Tiago Taranto,,,Kauli Luiz,2,0
+Modern,21-Mar-19,Maycon Bittencourt,,,Thiago Sant,1,2
+Modern,21-Mar-19,Douglas Schneider,,,Alexandre Goes,0,2
+Modern,21-Mar-19,Mateus Schneider,,,Tiago Taranto,1,2
+Modern,21-Mar-19,Alexandre Goes,,,Leandro Goes,2,1
+Modern,21-Mar-19,Joao Baptista,,,Vicente Joner,2,1
+Modern,21-Mar-19,William Gasparino,,,Andre Schimidt,1,2
+Modern,21-Mar-19,Thiago Sant,,,Tales Pereira,1,2
+Modern,21-Mar-19,Joao Biato,,,Lucas Ventura,2,0
+Modern,21-Mar-19,Leonardo Andrade,,,Gustavo Wolf,2,0
+Modern,21-Mar-19,Douglas Schneider,,,Kauli Luiz,1,2
+Modern,21-Mar-19,Marvin Aquino,,,Maycon Bittencourt,1,2
+Modern,21-Mar-19,Thales Bion,,,Marcos Morelli,2,1
+Modern,21-Mar-19,Alexandre Goes,,,Tiago Taranto,1,2
+Modern,21-Mar-19,Andre Schimidt,,,Vicente Joner,2,0
+Modern,21-Mar-19,Joao Biato,,,Joao Baptista,1,2
+Modern,21-Mar-19,Tales Pereira,,,Leandro Goes,2,0
+Modern,21-Mar-19,Maycon Bittencourt,,,Thales Bion,1,2
+Modern,21-Mar-19,Leonardo Andrade,,,Kauli Luiz,1,2
+Modern,21-Mar-19,William Gasparino,,,Thiago Sant,0,2
+Modern,21-Mar-19,Mateus Schneider,,,Marvin Aquino,1,2
+Modern,21-Mar-19,Marcos Morelli,,,Douglas Schneider,2,0
+Modern,21-Mar-19,Lucas Ventura,,,Gustavo Wolf,2,1
+Modern,21-Mar-19,Andre Schimidt,,,Tiago Taranto,1,2
+Modern,21-Mar-19,Tales Pereira,,,Alexandre Goes,2,1
+Modern,21-Mar-19,Kauli Luiz,,,Thales Bion,2,0
+Modern,21-Mar-19,Joao Baptista,,,Thiago Sant,1,2
+Modern,21-Mar-19,Vicente Joner,,,Joao Biato,2,1
+Modern,21-Mar-19,Marcos Morelli,,,Maycon Bittencourt,2,1
+Modern,21-Mar-19,Mateus Schneider,,,William Gasparino,1,1
+Modern,21-Mar-19,Marvin Aquino,,,Leonardo Andrade,1,2
+Modern,21-Mar-19,Leandro Goes,,,Lucas Ventura,2,1
+Modern,21-Mar-19,Douglas Schneider,,,Gustavo Wolf,1,1
+Modern,21-Mar-19,Tiago Taranto,,,Tales Pereira,2,0
+Modern,21-Mar-19,Andre Schimidt,,,Thiago Sant,1,2
+Modern,21-Mar-19,Thales Bion,,,Alexandre Goes,2,1
+Modern,21-Mar-19,Vicente Joner,,,William Gasparino,0,2
+Modern,21-Mar-19,Joao Baptista,,,Leandro Goes,0,2
+Modern,21-Mar-19,Leonardo Andrade,,,Marcos Morelli,2,1
+Modern,21-Mar-19,Joao Biato,,,Maycon Bittencourt,2,1
+Modern,21-Mar-19,Lucas Ventura,,,Marvin Aquino,1,2

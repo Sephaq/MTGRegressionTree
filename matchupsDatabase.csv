@@ -1,0 +1,597 @@
+Format,Deck,Matchup,Games,Victories,Losses
+Modern,BUR Aggro,UW Control,2,2,0
+Modern,UW Control,BUR Aggro,2,0,2
+Modern,UR Control,WGU Aggro,2,2,0
+Modern,WGU Aggro,UR Control,2,0,2
+Modern,G Control,GU Combo,3,2,1
+Modern,GU Combo,G Control,3,1,2
+Modern,UW Control,UR Aggro,3,2,1
+Modern,UR Aggro,UW Control,3,1,2
+Modern,RG Midrange,BRG Midrange,2,1,1
+Modern,BRG Midrange,RG Midrange,2,1,1
+Modern,GRU Combo,RWG Aggro,2,0,2
+Modern,RWG Aggro,GRU Combo,2,2,0
+Modern,,UBR Control,2,1,1
+Modern,UBR Control,,2,1,1
+Modern,,G Aggro,2,2,0
+Modern,G Aggro,,2,0,2
+Modern,UW Control,BUR Aggro,2,2,0
+Modern,BUR Aggro,UW Control,2,0,2
+Modern,UR Combo,RWG Aggro,2,2,0
+Modern,RWG Aggro,UR Combo,2,0,2
+Modern,G Aggro,G Control,2,2,0
+Modern,G Control,G Aggro,2,0,2
+Modern,UR Control,BRG Midrange,2,2,0
+Modern,BRG Midrange,UR Control,2,0,2
+Modern,RG Midrange,,3,1,2
+Modern,,RG Midrange,3,2,1
+Modern,UBR Control,,3,2,1
+Modern,,UBR Control,3,1,2
+Modern,UW Control,UR Aggro,2,0,2
+Modern,UR Aggro,UW Control,2,2,0
+Modern,GU Combo,GRU Combo,3,2,1
+Modern,GRU Combo,GU Combo,3,1,2
+Modern,G Control,UR Combo,3,1,2
+Modern,UR Combo,G Control,3,2,1
+Modern,UR Control,UW Control,2,1,1
+Modern,UW Control,UR Control,2,1,1
+Modern,UBR Control,UR Aggro,3,2,1
+Modern,UR Aggro,UBR Control,3,1,2
+Modern,,WGU Aggro,3,2,1
+Modern,WGU Aggro,,3,1,2
+Modern,RWG Aggro,BUR Aggro,3,2,1
+Modern,BUR Aggro,RWG Aggro,3,1,2
+Modern,GU Combo,G Aggro,2,2,0
+Modern,G Aggro,GU Combo,2,0,2
+Modern,BRG Midrange,,3,1,2
+Modern,,BRG Midrange,3,2,1
+Modern,RG Midrange,GRU Combo,2,1,1
+Modern,GRU Combo,RG Midrange,2,1,1
+Modern,GU Combo,UR Combo,3,1,2
+Modern,UR Combo,GU Combo,3,2,1
+Modern,UW Control,UBR Control,2,2,0
+Modern,UBR Control,UW Control,2,0,2
+Modern,,UR Control,3,1,2
+Modern,UR Control,,3,2,1
+Modern,BUR Aggro,WGU Aggro,3,2,1
+Modern,WGU Aggro,BUR Aggro,3,1,2
+Modern,RWG Aggro,G Aggro,3,2,1
+Modern,G Aggro,RWG Aggro,3,1,2
+Modern,G Control,UR Aggro,2,2,0
+Modern,UR Aggro,G Control,2,0,2
+Modern,,RG Midrange,2,0,2
+Modern,RG Midrange,,2,2,0
+Modern,BRG Midrange,GRU Combo,2,0,2
+Modern,GRU Combo,BRG Midrange,2,2,0
+Modern,UR Control,G Control,3,1,2
+Modern,G Control,UR Control,3,2,1
+Modern,BUR Aggro,UW Control,3,2,1
+Modern,UW Control,BUR Aggro,3,1,2
+Modern,WGU Aggro,GU Combo,2,0,2
+Modern,GU Combo,WGU Aggro,2,2,0
+Modern,UW Control,BRG Midrange,2,0,2
+Modern,BRG Midrange,UW Control,2,2,0
+Modern,RG Midrange,UR Combo,3,2,1
+Modern,UR Combo,RG Midrange,3,1,2
+Modern,,RWG Aggro,2,0,2
+Modern,RWG Aggro,,2,2,0
+Modern,GRU Combo,,2,2,0
+Modern,,GRU Combo,2,0,2
+Modern,UBR Control,G Aggro,2,2,0
+Modern,G Aggro,UBR Control,2,0,2
+Modern,G Control,BUR Aggro,2,0,2
+Modern,BUR Aggro,G Control,2,2,0
+Modern,GU Combo,WGU Aggro,3,2,1
+Modern,WGU Aggro,GU Combo,3,1,2
+Modern,RG Midrange,RWG Aggro,3,1,2
+Modern,RWG Aggro,RG Midrange,3,2,1
+Modern,GRU Combo,UBR Control,1,1,0
+Modern,UBR Control,GRU Combo,1,0,1
+Modern,UR Control,UW Control,3,1,2
+Modern,UW Control,UR Control,3,2,1
+Modern,UR Combo,WGU Aggro,3,1,2
+Modern,WGU Aggro,UR Combo,3,2,1
+Modern,UW Control,,2,0,2
+Modern,,UW Control,2,2,0
+Modern,,G Aggro,3,2,1
+Modern,G Aggro,,3,1,2
+Modern,BUR Aggro,RWG Aggro,3,1,2
+Modern,RWG Aggro,BUR Aggro,3,2,1
+Modern,GU Combo,GRU Combo,2,2,0
+Modern,GRU Combo,GU Combo,2,0,2
+Modern,G Control,UW Control,3,2,1
+Modern,UW Control,G Control,3,1,2
+Modern,BRG Midrange,RG Midrange,3,2,1
+Modern,RG Midrange,BRG Midrange,3,1,2
+Modern,WGU Aggro,,3,2,1
+Modern,,WGU Aggro,3,1,2
+Modern,,UBR Control,2,2,0
+Modern,UBR Control,,2,0,2
+Modern,UW Control,,3,1,2
+Modern,,UW Control,3,2,1
+Modern,UR Control,UR Combo,3,2,1
+Modern,UR Combo,UR Control,3,1,2
+Modern,GU Combo,RWG Aggro,3,1,2
+Modern,RWG Aggro,GU Combo,3,2,1
+Modern,G Control,WGU Aggro,2,2,0
+Modern,WGU Aggro,G Control,2,0,2
+Modern,BUR Aggro,GRU Combo,3,2,1
+Modern,GRU Combo,BUR Aggro,3,1,2
+Modern,UW Control,RG Midrange,3,2,1
+Modern,RG Midrange,UW Control,3,1,2
+Modern,WGU Aggro,,3,2,1
+Modern,,WGU Aggro,3,1,2
+Modern,UR Control,G Aggro,2,2,0
+Modern,G Aggro,UR Control,2,0,2
+Modern,UW Control,,3,1,2
+Modern,,UW Control,3,2,1
+Modern,UBR Control,UR Combo,2,1,1
+Modern,UR Combo,UBR Control,2,1,1
+Modern,UB Combo,GRU Combo,3,2,1
+Modern,GRU Combo,UB Combo,3,1,2
+Modern,BG Midrange,UW Control,3,1,2
+Modern,UW Control,BG Midrange,3,2,1
+Modern,UW Control,WGU Aggro,2,2,0
+Modern,WGU Aggro,UW Control,2,0,2
+Modern,GWRU Combo,G Control,2,0,2
+Modern,G Control,GWRU Combo,2,2,0
+Modern,RG Midrange,BRG Midrange,2,0,2
+Modern,BRG Midrange,RG Midrange,2,2,0
+Modern,UBR Control,UWG Aggro,2,0,2
+Modern,UWG Aggro,UBR Control,2,2,0
+Modern,UWG Aggro,G Control,3,2,1
+Modern,G Control,UWG Aggro,3,1,2
+Modern,UW Control,UW Control,2,0,2
+Modern,UW Control,UW Control,2,2,0
+Modern,BRG Midrange,UB Combo,2,0,2
+Modern,UB Combo,BRG Midrange,2,2,0
+Modern,BG Midrange,GRU Combo,3,2,1
+Modern,GRU Combo,BG Midrange,3,1,2
+Modern,WGU Aggro,GWRU Combo,3,1,2
+Modern,GWRU Combo,WGU Aggro,3,2,1
+Modern,RG Midrange,UBR Control,2,1,1
+Modern,UBR Control,RG Midrange,2,1,1
+Modern,UWG Aggro,UW Control,2,2,0
+Modern,UW Control,UWG Aggro,2,0,2
+Modern,UB Combo,G Control,2,0,2
+Modern,G Control,UB Combo,2,2,0
+Modern,BG Midrange,GWRU Combo,2,2,0
+Modern,GWRU Combo,BG Midrange,2,0,2
+Modern,UW Control,BRG Midrange,2,2,0
+Modern,BRG Midrange,UW Control,2,0,2
+Modern,GRU Combo,UBR Control,3,2,1
+Modern,UBR Control,GRU Combo,3,1,2
+Modern,RG Midrange,WGU Aggro,2,0,2
+Modern,WGU Aggro,RG Midrange,2,2,0
+Modern,UWG Aggro,G Control,2,2,0
+Modern,G Control,UWG Aggro,2,0,2
+Modern,UW Control,UB Combo,2,2,0
+Modern,UB Combo,UW Control,2,0,2
+Modern,BG Midrange,UW Control,2,0,2
+Modern,UW Control,BG Midrange,2,2,0
+Modern,BRG Midrange,GWRU Combo,2,0,2
+Modern,GWRU Combo,BRG Midrange,2,2,0
+Modern,RG Midrange,GRU Combo,2,0,2
+Modern,GRU Combo,RG Midrange,2,2,0
+Modern,UBR Control,WGU Aggro,2,0,2
+Modern,WGU Aggro,UBR Control,2,2,0
+Modern,BR Aggro,BRG Midrange,2,2,0
+Modern,BRG Midrange,BR Aggro,2,0,2
+Modern,UR Combo,BR Aggro,3,1,2
+Modern,BR Aggro,UR Combo,3,2,1
+Modern,UBR Control,RBW Midrange,2,2,0
+Modern,RBW Midrange,UBR Control,2,0,2
+Modern,BG Midrange,GWRU Combo,3,2,1
+Modern,GWRU Combo,BG Midrange,3,1,2
+Modern,UB Control,G Aggro,2,0,2
+Modern,G Aggro,UB Control,2,2,0
+Modern,RWG Aggro,UWG Aggro,3,2,1
+Modern,UWG Aggro,RWG Aggro,3,1,2
+Modern,UB Combo,UW Control,3,2,1
+Modern,UW Control,UB Combo,3,1,2
+Modern,UWG Aggro,UGW Aggro,3,1,2
+Modern,UGW Aggro,UWG Aggro,3,2,1
+Modern,BR Aggro,RWG Aggro,2,0,2
+Modern,RWG Aggro,BR Aggro,2,2,0
+Modern,UBR Control,BG Midrange,2,0,2
+Modern,BG Midrange,UBR Control,2,2,0
+Modern,BUR Aggro,UB Combo,2,2,0
+Modern,UB Combo,BUR Aggro,2,0,2
+Modern,UGW Aggro,G Aggro,3,1,2
+Modern,G Aggro,UGW Aggro,3,2,1
+Modern,UB Control,UWG Aggro,3,1,2
+Modern,UWG Aggro,UB Control,3,2,1
+Modern,UR Combo,UW Control,2,0,2
+Modern,UW Control,UR Combo,2,2,0
+Modern,BRG Midrange,RBW Midrange,2,2,0
+Modern,RBW Midrange,BRG Midrange,2,0,2
+Modern,UWG Aggro,GWRU Combo,2,0,2
+Modern,GWRU Combo,UWG Aggro,2,2,0
+Modern,RWG Aggro,G Aggro,3,2,1
+Modern,G Aggro,RWG Aggro,3,1,2
+Modern,BG Midrange,BR Aggro,3,2,1
+Modern,BR Aggro,BG Midrange,3,1,2
+Modern,GWRU Combo,UB Combo,2,2,0
+Modern,UB Combo,GWRU Combo,2,0,2
+Modern,UW Control,UWG Aggro,2,0,2
+Modern,UWG Aggro,UW Control,2,2,0
+Modern,BR Aggro,UGW Aggro,3,2,1
+Modern,UGW Aggro,BR Aggro,3,1,2
+Modern,BRG Midrange,UBR Control,1,1,0
+Modern,UBR Control,BRG Midrange,1,0,1
+Modern,UWG Aggro,UR Combo,3,1,2
+Modern,UR Combo,UWG Aggro,3,2,1
+Modern,RBW Midrange,UB Control,2,2,0
+Modern,UB Control,RBW Midrange,2,0,2
+Modern,BG Midrange,RWG Aggro,3,2,1
+Modern,RWG Aggro,BG Midrange,3,1,2
+Modern,BR Aggro,BR Aggro,3,2,1
+Modern,BR Aggro,BR Aggro,3,1,2
+Modern,GWRU Combo,G Aggro,3,2,1
+Modern,G Aggro,GWRU Combo,3,1,2
+Modern,BRG Midrange,UWG Aggro,2,0,2
+Modern,UWG Aggro,BRG Midrange,2,2,0
+Modern,UGW Aggro,UBR Control,3,2,1
+Modern,UBR Control,UGW Aggro,3,1,2
+Modern,UB Combo,RBW Midrange,2,2,0
+Modern,RBW Midrange,UB Combo,2,0,2
+Modern,G Midrange,BUR Aggro,2,0,2
+Modern,BUR Aggro,G Midrange,2,2,0
+Modern,RWG Aggro,BRG Midrange,2,2,0
+Modern,BRG Midrange,RWG Aggro,2,0,2
+Modern,,RBW Midrange,1,0,1
+Modern,RBW Midrange,,1,1,0
+Modern,UR Combo,UWG Aggro,2,2,0
+Modern,UWG Aggro,UR Combo,2,0,2
+Modern,UWG Aggro,,3,2,1
+Modern,,UWG Aggro,3,1,2
+Modern,BG Midrange,UB Control,3,2,1
+Modern,UB Control,BG Midrange,3,1,2
+Modern,GWRU Combo,UB Combo,3,2,1
+Modern,UB Combo,GWRU Combo,3,1,2
+Modern,,UR Combo,2,0,2
+Modern,UR Combo,,2,2,0
+Modern,Coloress Aggro,GR Combo,3,1,2
+Modern,GR Combo,Coloress Aggro,3,2,1
+Modern,UR Combo,BUR Aggro,3,1,2
+Modern,BUR Aggro,UR Combo,3,2,1
+Modern,UWG Aggro,BRG Aggro,2,0,2
+Modern,BRG Aggro,UWG Aggro,2,2,0
+Modern,GWRU Combo,RWG Aggro,3,1,2
+Modern,RWG Aggro,GWRU Combo,3,2,1
+Modern,UR Combo,BG Midrange,2,0,2
+Modern,BG Midrange,UR Combo,2,2,0
+Modern,GR Combo,RBW Midrange,2,0,2
+Modern,RBW Midrange,GR Combo,2,2,0
+Modern,BRG Midrange,UWG Aggro,2,0,2
+Modern,UWG Aggro,BRG Midrange,2,2,0
+Modern,UB Combo,Coloress Aggro,3,2,1
+Modern,Coloress Aggro,UB Combo,3,1,2
+Modern,,,2,0,2
+Modern,,,2,2,0
+Modern,G Midrange,,3,1,2
+Modern,,G Midrange,3,2,1
+Modern,BG Midrange,BRG Aggro,2,2,0
+Modern,BRG Aggro,BG Midrange,2,0,2
+Modern,RBW Midrange,RWG Aggro,2,0,2
+Modern,RWG Aggro,RBW Midrange,2,2,0
+Modern,BUR Aggro,UR Combo,2,0,2
+Modern,UR Combo,BUR Aggro,2,2,0
+Modern,UWG Aggro,BUR Aggro,3,2,1
+Modern,BUR Aggro,UWG Aggro,3,1,2
+Modern,,,2,0,2
+Modern,,,2,2,0
+Modern,UBR Control,UWG Aggro,2,2,0
+Modern,UWG Aggro,UBR Control,2,0,2
+Modern,UB Combo,GR Combo,2,2,0
+Modern,GR Combo,UB Combo,2,0,2
+Modern,G Midrange,GWRU Combo,2,2,0
+Modern,GWRU Combo,G Midrange,2,0,2
+Modern,Coloress Aggro,BRG Midrange,2,2,0
+Modern,BRG Midrange,Coloress Aggro,2,0,2
+Modern,BG Midrange,RWG Aggro,2,0,2
+Modern,RWG Aggro,BG Midrange,2,2,0
+Modern,BUR Aggro,,2,2,0
+Modern,,BUR Aggro,2,0,2
+Modern,UB Combo,RBW Midrange,2,2,0
+Modern,RBW Midrange,UB Combo,2,0,2
+Modern,BRG Aggro,UBR Control,2,0,2
+Modern,UBR Control,BRG Aggro,2,2,0
+Modern,UR Combo,,3,2,1
+Modern,,UR Combo,3,1,2
+Modern,G Midrange,UWG Aggro,2,2,0
+Modern,UWG Aggro,G Midrange,2,0,2
+Modern,UR Combo,RWG Aggro,2,0,2
+Modern,RWG Aggro,UR Combo,2,2,0
+Modern,BG Midrange,BUR Aggro,3,2,1
+Modern,BUR Aggro,BG Midrange,3,1,2
+Modern,UB Control,UWG Aggro,2,0,2
+Modern,UWG Aggro,UB Control,2,2,0
+Modern,UB Combo,BRG Aggro,2,2,0
+Modern,BRG Aggro,UB Combo,2,0,2
+Modern,RBW Midrange,G Midrange,2,0,2
+Modern,G Midrange,RBW Midrange,2,2,0
+Modern,RWG Aggro,UR Combo,3,1,2
+Modern,UR Combo,RWG Aggro,3,2,1
+Modern,BG Midrange,BRG Midrange,3,2,1
+Modern,BRG Midrange,BG Midrange,3,1,2
+Modern,UBR Control,UWG Aggro,3,1,2
+Modern,UWG Aggro,UBR Control,3,2,1
+Modern,GU Combo,UB Combo,2,0,2
+Modern,UB Combo,GU Combo,2,2,0
+Modern,,B Control,2,0,2
+Modern,B Control,,2,2,0
+Modern,UR Combo,WGU Aggro,2,0,2
+Modern,WGU Aggro,UR Combo,2,2,0
+Modern,G Control,G Control,2,2,0
+Modern,G Control,G Control,2,0,2
+Modern,BG Midrange,RWG Aggro,3,2,1
+Modern,RWG Aggro,BG Midrange,3,1,2
+Modern,BG Midrange,WGU Aggro,3,2,1
+Modern,WGU Aggro,BG Midrange,3,1,2
+Modern,B Control,UR Combo,2,2,0
+Modern,UR Combo,B Control,2,0,2
+Modern,G Control,UWG Aggro,3,1,2
+Modern,UWG Aggro,G Control,3,2,1
+Modern,UB Combo,BG Midrange,3,2,1
+Modern,BG Midrange,UB Combo,3,1,2
+Modern,RWG Aggro,UR Combo,2,2,0
+Modern,UR Combo,RWG Aggro,2,0,2
+Modern,UBR Control,RWG Aggro,2,2,0
+Modern,RWG Aggro,UBR Control,2,0,2
+Modern,GU Combo,G Control,2,2,0
+Modern,G Control,GU Combo,2,0,2
+Modern,,BRG Midrange,3,1,2
+Modern,BRG Midrange,,3,2,1
+Modern,UWG Aggro,BG Midrange,3,1,2
+Modern,BG Midrange,UWG Aggro,3,2,1
+Modern,B Control,UB Combo,3,2,1
+Modern,UB Combo,B Control,3,1,2
+Modern,WGU Aggro,G Control,3,1,2
+Modern,G Control,WGU Aggro,3,2,1
+Modern,RWG Aggro,UBR Control,2,2,0
+Modern,UBR Control,RWG Aggro,2,0,2
+Modern,BRG Midrange,UR Combo,2,0,2
+Modern,UR Combo,BRG Midrange,2,2,0
+Modern,GU Combo,BG Midrange,3,1,2
+Modern,BG Midrange,GU Combo,3,2,1
+Modern,RWG Aggro,,3,2,1
+Modern,,RWG Aggro,3,1,2
+Modern,BG Midrange,B Control,2,0,2
+Modern,B Control,BG Midrange,2,2,0
+Modern,UB Combo,UWG Aggro,3,2,1
+Modern,UWG Aggro,UB Combo,3,1,2
+Modern,UR Combo,RWG Aggro,2,0,2
+Modern,RWG Aggro,UR Combo,2,2,0
+Modern,G Control,BG Midrange,3,1,2
+Modern,BG Midrange,G Control,3,2,1
+Modern,GU Combo,UBR Control,2,1,1
+Modern,UBR Control,GU Combo,2,1,1
+Modern,BRG Midrange,RWG Aggro,3,1,2
+Modern,RWG Aggro,BRG Midrange,3,2,1
+Modern,BGRU Combo,BG Midrange,3,1,2
+Modern,BG Midrange,BGRU Combo,3,2,1
+Modern,UR Combo,BRG Midrange,2,2,0
+Modern,BRG Midrange,UR Combo,2,0,2
+Modern,G Control,BUR Aggro,3,1,2
+Modern,BUR Aggro,G Control,3,2,1
+Modern,G Control,UR Combo,3,1,2
+Modern,UR Combo,G Control,3,2,1
+Modern,,WGU Aggro,3,1,2
+Modern,WGU Aggro,,3,2,1
+Modern,RWG Aggro,GWRU Combo,3,2,1
+Modern,GWRU Combo,RWG Aggro,3,1,2
+Modern,GWRU Combo,BUR Aggro,3,2,1
+Modern,BUR Aggro,GWRU Combo,3,1,2
+Modern,BG Midrange,WGU Aggro,2,2,0
+Modern,WGU Aggro,BG Midrange,2,0,2
+Modern,UR Combo,UR Combo,2,0,2
+Modern,UR Combo,UR Combo,2,2,0
+Modern,UWG Aggro,RWG Aggro,3,2,1
+Modern,RWG Aggro,UWG Aggro,3,1,2
+Modern,,G Control,2,2,0
+Modern,G Control,,2,0,2
+Modern,G Control,BRG Midrange,3,2,1
+Modern,BRG Midrange,G Control,3,1,2
+Modern,GWRU Combo,UR Combo,2,2,0
+Modern,UR Combo,GWRU Combo,2,0,2
+Modern,UWG Aggro,BG Midrange,3,2,1
+Modern,BG Midrange,UWG Aggro,3,1,2
+Modern,,UR Combo,3,1,2
+Modern,UR Combo,,3,2,1
+Modern,BGRU Combo,G Control,2,0,2
+Modern,G Control,BGRU Combo,2,2,0
+Modern,BUR Aggro,WGU Aggro,3,2,1
+Modern,WGU Aggro,BUR Aggro,3,1,2
+Modern,BRG Midrange,G Control,2,0,2
+Modern,G Control,BRG Midrange,2,2,0
+Modern,UWG Aggro,GWRU Combo,2,1,1
+Modern,GWRU Combo,UWG Aggro,2,1,1
+Modern,UR Combo,BG Midrange,2,0,2
+Modern,BG Midrange,UR Combo,2,2,0
+Modern,UR Combo,G Control,3,2,1
+Modern,G Control,UR Combo,3,1,2
+Modern,BUR Aggro,BGRU Combo,3,2,1
+Modern,BGRU Combo,BUR Aggro,3,1,2
+Modern,WGU Aggro,G Control,2,2,0
+Modern,G Control,WGU Aggro,2,0,2
+Modern,,BRG Midrange,3,2,1
+Modern,BRG Midrange,,3,1,2
+Modern,,,3,2,1
+Modern,,,3,1,2
+Modern,,,2,0,2
+Modern,,,2,2,0
+Modern,,,2,0,2
+Modern,,,2,2,0
+Modern,,,3,2,1
+Modern,,,3,1,2
+Modern,,,2,2,0
+Modern,,,2,0,2
+Modern,,,3,1,2
+Modern,,,3,2,1
+Modern,,,3,2,1
+Modern,,,3,1,2
+Modern,,,3,1,2
+Modern,,,3,2,1
+Modern,,,3,1,2
+Modern,,,3,2,1
+Modern,,,3,1,2
+Modern,,,3,2,1
+Modern,,,2,2,0
+Modern,,,2,0,2
+Modern,,,2,0,2
+Modern,,,2,2,0
+Modern,,,3,1,2
+Modern,,,3,2,1
+Modern,,,2,0,2
+Modern,,,2,2,0
+Modern,,,3,2,1
+Modern,,,3,1,2
+Modern,,,3,2,1
+Modern,,,3,1,2
+Modern,,,3,2,1
+Modern,,,3,1,2
+Modern,,,3,1,2
+Modern,,,3,2,1
+Modern,,,2,2,0
+Modern,,,2,0,2
+Modern,,,3,1,2
+Modern,,,3,2,1
+Modern,,,3,2,1
+Modern,,,3,1,2
+Modern,,,3,1,2
+Modern,,,3,2,1
+Modern,,,3,1,2
+Modern,,,3,2,1
+Modern,,,2,0,2
+Modern,,,2,2,0
+Modern,,,2,0,2
+Modern,,,2,2,0
+Modern,,,3,2,1
+Modern,,,3,1,2
+Modern,,,3,1,2
+Modern,,,3,2,1
+Modern,,,3,2,1
+Modern,,,3,1,2
+Modern,,,2,2,0
+Modern,,,2,0,2
+Modern,,,3,2,1
+Modern,,,3,1,2
+Modern,,,3,2,1
+Modern,,,3,1,2
+Modern,,,3,1,2
+Modern,,,3,2,1
+Modern,,,3,2,1
+Modern,,,3,1,2
+Modern,,,3,2,1
+Modern,,,3,1,2
+Modern,,,2,1,1
+Modern,,,2,1,1
+Modern,,,3,2,1
+Modern,,,3,1,2
+Modern,,,3,1,2
+Modern,,,3,2,1
+Modern,,,3,1,2
+Modern,,,3,2,1
+Modern,,,2,2,0
+Modern,,,2,0,2
+Modern,,,3,2,1
+Modern,,,3,1,2
+Modern,,,2,2,0
+Modern,,,2,0,2
+Modern,,,3,2,1
+Modern,,,3,1,2
+Modern,,,2,2,0
+Modern,,,2,0,2
+Modern,,,2,2,0
+Modern,,,2,0,2
+Modern,,,2,2,0
+Modern,,,2,0,2
+Modern,,,3,2,1
+Modern,,,3,1,2
+Modern,,,3,1,2
+Modern,,,3,2,1
+Modern,,,2,0,2
+Modern,,,2,2,0
+Modern,,,2,2,0
+Modern,,,2,0,2
+Modern,,,3,1,2
+Modern,,,3,2,1
+Modern,,,2,0,2
+Modern,,,2,2,0
+Modern,,,3,1,2
+Modern,,,3,2,1
+Modern,,,3,2,1
+Modern,,,3,1,2
+Modern,,,3,2,1
+Modern,,,3,1,2
+Modern,,,3,1,2
+Modern,,,3,2,1
+Modern,,,3,1,2
+Modern,,,3,2,1
+Modern,,,2,2,0
+Modern,,,2,0,2
+Modern,,,2,2,0
+Modern,,,2,0,2
+Modern,,,3,1,2
+Modern,,,3,2,1
+Modern,,,3,1,2
+Modern,,,3,2,1
+Modern,,,3,2,1
+Modern,,,3,1,2
+Modern,,,3,1,2
+Modern,,,3,2,1
+Modern,,,2,2,0
+Modern,,,2,0,2
+Modern,,,3,1,2
+Modern,,,3,2,1
+Modern,,,2,2,0
+Modern,,,2,0,2
+Modern,,,3,1,2
+Modern,,,3,2,1
+Modern,,,3,1,2
+Modern,,,3,2,1
+Modern,,,2,0,2
+Modern,,,2,2,0
+Modern,,,3,1,2
+Modern,,,3,2,1
+Modern,,,2,2,0
+Modern,,,2,0,2
+Modern,,,3,2,1
+Modern,,,3,1,2
+Modern,,,3,1,2
+Modern,,,3,2,1
+Modern,,,3,2,1
+Modern,,,3,1,2
+Modern,,,2,2,0
+Modern,,,2,0,2
+Modern,,,3,1,2
+Modern,,,3,2,1
+Modern,,,3,2,1
+Modern,,,3,1,2
+Modern,,,3,2,1
+Modern,,,3,1,2
+Modern,,,2,1,1
+Modern,,,2,1,1
+Modern,,,3,1,2
+Modern,,,3,2,1
+Modern,,,3,2,1
+Modern,,,3,1,2
+Modern,,,2,1,1
+Modern,,,2,1,1
+Modern,,,2,2,0
+Modern,,,2,0,2
+Modern,,,3,1,2
+Modern,,,3,2,1
+Modern,,,3,2,1
+Modern,,,3,1,2
+Modern,,,2,0,2
+Modern,,,2,2,0
+Modern,,,2,0,2
+Modern,,,2,2,0
+Modern,,,3,2,1
+Modern,,,3,1,2
+Modern,,,3,2,1
+Modern,,,3,1,2
+Modern,,,3,1,2
+Modern,,,3,2,1
