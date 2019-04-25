@@ -3,12 +3,29 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn import datasets, linear_model
 from sklearn.metrics import mean_squared_error, r2_score
+import csv
 
-f = open("matchupsDatabase.csv")
-f.readline()
-data = np.loadtxt(f)
+# Load the matchups dataset
+# reader = csv.reader(open("matchupsDatabase.csv", encoding="utf8"),delimiter=",")
+# print(reader)
+# reader.readline()
+# x = list(reader)
+# data = np.array(x).astype("float")
+# print(data)
 
-print(data)
+#Using pandas
+input_file = "matchupsDatabase.csv"
+
+df = pd.read_csv(input_file,header=0)
+orignal_headers = list(df.columns.values)
+df = df._get_numeric_data()
+numeric_headers = list(df.columns.values)
+numpy_array = df.as_matrix()
+numeric_headers.reverse()
+reverse_df = df[numeric_headers]
+print(reverse_df)
+
+# reverse_df.to_excel(maFile.xls")
 
 # Load the diabetes dataset
 diabetes = datasets.load_diabetes()
