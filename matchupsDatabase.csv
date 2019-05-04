@@ -1,4 +1,4 @@
-MatchuoDeck,OpponentDeck,Games,Victories,Losses,WinPercentage,
+Matchup,Deck,OpponentDeck,Games,Victories,Losses,WinPercentage
 12,1,2,2,2,0,1
 21,2,1,2,0,2,0
 86,8,6,2,2,0,1

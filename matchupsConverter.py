@@ -33,12 +33,10 @@ with open ('decksDatabase.csv') as csv_file:
             line_count += 1
 
 print(f'Processed {line_count} lines')
-# print('Teste')
-# print(f'Deck: {decks[0].archetype}, Matchup: {decks[0].oponentArchetype}, Games:{decks[0].games}, Victories:{decks[0].victories}, Losses:{decks[0].losses}')
 
 with open('matchupsDatabase.csv',mode='w') as csv_file:
     outfile = csv.writer(csv_file)
-    outfile.writerow(['Format','Matchuo' 'Deck', 'OpponentDeck', 'Games', 'Victories', 'Losses', 'WinPercentage'])
+    outfile.writerow(['Format','Matchup','Deck', 'OpponentDeck', 'Games', 'Victories', 'Losses', 'WinPercentage'])
     for game in decks:
         # outfile.writerows(game)
         outfile.writerow([game.format,game.matchup,game.archetype,game.oponentArchetype,game.games,game.victories,game.losses,game.winPercentage])
