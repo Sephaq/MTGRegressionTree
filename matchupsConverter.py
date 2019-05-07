@@ -39,4 +39,11 @@ with open('matchupsDatabase.csv',mode='w') as csv_file:
     outfile.writerow(['Format','Matchup','Deck', 'OpponentDeck', 'Games', 'Victories', 'Losses', 'WinPercentage'])
     for game in decks:
         # outfile.writerows(game)
-        outfile.writerow([game.format,game.matchup,game.archetype,game.oponentArchetype,game.games,game.victories,game.losses,game.winPercentage])
+        outfile.writerow([game.format,
+            game.matchup,
+            game.archetype,
+            game.oponentArchetype,
+            game.games,
+            game.victories,
+            game.losses,
+            game.winPercentage])
