@@ -42,4 +42,4 @@ print(lr.predict([[114,1]]))#Retorna a probabilidade deste resultado acontece
 
 coreml_model = coremltools.converters.sklearn.convert(lr,["matchup","winPercentage"])
 
-coreml_model.save("decksMatchup.mlmodel")
+coreml_model.save("decksMatchup.mlmodel)
